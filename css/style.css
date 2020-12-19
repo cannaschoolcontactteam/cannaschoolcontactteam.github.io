@@ -67,13 +67,4 @@ div.album ul li{display:inline-block;text-align:left;}
 .box {width: 1300px;}
 .right {margin-left: auto;}
 
-.content {
-    width: 400px;
-    height: 100px;
-  }
-  
-  .inner {
-    padding-top: 30px;
-    display: flex;
-    justify-content: space-evenly;
-  }
+
