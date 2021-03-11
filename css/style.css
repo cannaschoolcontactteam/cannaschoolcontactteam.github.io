@@ -121,3 +121,5 @@ li a:hover:not(.active) {
     100% {opacity: 1} /*アニメーション終了時は不透明度100%*/
   
   }
+
+  .shukusho img { width: 80%; }
