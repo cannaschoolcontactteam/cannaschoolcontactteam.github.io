@@ -112,7 +112,7 @@ li a:hover:not(.active) {
 
     animation: fadeIn 0.2s ease 0.3s 1 normal;
     animation-duration: 3s;
-    animation-delay: 3s;
+    animation-delay: 1s;
     
   }
   
